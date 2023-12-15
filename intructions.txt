@@ -1,0 +1,7 @@
+step by step
+
+from terminal run the following code:
+
+-- to update python
+sudo apt-get update
+-- instal s
